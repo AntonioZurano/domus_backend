@@ -1,6 +1,6 @@
 # DOMUS - Aplicación de Bienes Raíces
 
-![DOMUS Logo](domus_logo.png) <!-- Agrega una imagen del logo de DOMUS si lo tienes -->
+![logo_Domus](https://github.com/azuranob/domus-frontend/assets/117543576/993c7fb3-354b-49c8-89a1-e0d132250f94) <!-- Agrega una imagen del logo de DOMUS si lo tienes -->
 
 DOMUS es una aplicación de bienes raíces que facilita el proceso de poner en contacto las ventas de un agente inmobiliario con las compras de otro agente inmobiliario. La plataforma proporciona una interfaz amigable para que los agentes inmobiliarios puedan colaborar y cerrar acuerdos de manera efectiva.
 
@@ -29,5 +29,8 @@ DOMUS es una aplicación de bienes raíces que facilita el proceso de poner en c
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/TU_USUARIO_GITHUB/DOMUS.git
-cd DOMUS
+git clone https://github.com/azuranob/domus-backend.git
+cd domus-frontend
+```
+## Enlace Producción
+https://verde-backend-production.up.railway.app
