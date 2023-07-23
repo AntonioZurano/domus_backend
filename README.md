@@ -1,4 +1,4 @@
-# DOMUS - Aplicación de Bienes Raíces
+# DOMUS - Aplicación de Bienes Raíces para Agentes Inmobiliarios
 
 ![logo_Domus](https://github.com/azuranob/domus-frontend/assets/117543576/993c7fb3-354b-49c8-89a1-e0d132250f94) <!-- Agrega una imagen del logo de DOMUS si lo tienes -->
 
