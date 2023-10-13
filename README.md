@@ -30,7 +30,7 @@ DOMUS es una aplicación de bienes raíces que facilita el proceso de poner en c
 
 ```bash
 git clone https://github.com/azuranob/domus-backend.git
-cd domus-frontend
+cd domus-backend
 ```
 ## Enlace Producción
 https://verde-backend-production.up.railway.app
